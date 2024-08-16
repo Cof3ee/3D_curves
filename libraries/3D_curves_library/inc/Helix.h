@@ -1,7 +1,7 @@
 #pragma once
 #include "Curve3D.h"
 
-
+// Class for helix
 class Helix : public Curve3D
 {
 public:

@@ -1,6 +1,6 @@
 #pragma once
 
-// Структура для представления трехмерного вектора
+// Structure to represent a 3D vector
 struct Vector3D
 {
     float x;

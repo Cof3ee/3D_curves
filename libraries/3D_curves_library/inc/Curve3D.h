@@ -2,6 +2,7 @@
 #include "Point3D.h"
 #include "Vector3D.h"
 
+//Base class for Ellipse, Helix and Circle
 class Curve3D
 {
 public:

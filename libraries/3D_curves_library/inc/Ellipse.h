@@ -1,6 +1,7 @@
 #pragma once
 #include "Curve3D.h"
 
+// Class for ellipse
 class Ellipse :public Curve3D
 {
 public:
