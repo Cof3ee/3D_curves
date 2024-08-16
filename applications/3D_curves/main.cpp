@@ -13,7 +13,7 @@
 using namespace std;
 
 // Generate a random number in a given range
-float getRandomNumber(float min, float max)
+float getRandomNumber( const float min, const float max)
 {
     random_device rd;
     mt19937 generator(rd());
